@@ -4,7 +4,7 @@ Web application for DATAKUBENs web developments.
 
 ```bash
 # Clone project code 
-git clone https://github.com/mehimself/datakuben.git
+git clone https://github.com/mehimself/NEIC-survey-explorer-B.git
 
 # goto dir
 cd datakuben
