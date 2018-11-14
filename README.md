@@ -14,6 +14,4 @@ npm install
 
 # start the develop server
 npm start
-
-# install as service
 ```
