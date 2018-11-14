@@ -1,5 +1,6 @@
-# DATAKUBEN Web App
-Web application for DATAKUBENs web developments.
+# NEIC Survey Explorer
+Web app for a visulization study.
+
 ## Quick start
 
 ```bash
@@ -17,4 +18,7 @@ npm install
 
 # start the develop server
 npm start
+
+# open the web page (not entirely sure this works with every distro)
+python -m webbrowser "http://localhost:3002/"
 ```
